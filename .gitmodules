@@ -1,3 +1,0 @@
-[submodule "addons/teste-addon"]
-	path = addons/teste-addon
-	url = git@github.com:luansm50/teste-addon.git
